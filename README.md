@@ -11,6 +11,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
@@ -27,6 +28,7 @@
 ## Current Projects
 
 - 📊 **[Market Sentiment Plugin](https://github.com/sayantan94/market-sentiment-plugin)** - Chrome extension + CLI that captures posts from X, runs sentiment analysis via Claude on Bedrock, and tracks sentiment drift over time
+- 🔁 **[Recall](https://github.com/sayantan94/recall)** - A CLI and visual tool that records your terminal activity and lets you search, explore, and understand your work history
 - 📝 **[Clerk Bot](https://github.com/sayantan94/clerk-bot)** - Chrome extension that auto-fills web forms from your documents
 - 🤖 **[Trade Copilot Agent Swarm](https://github.com/fintools-ai/trade-copilot-agent-swarm)** - Multi-agent trading system that generates actionable signals
 - 💬 **[Trade Copilot](https://github.com/fintools-ai/trade-copilot)** - AI trading assistant with real-time order flow and technical analysis via chat
