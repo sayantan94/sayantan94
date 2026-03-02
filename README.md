@@ -27,6 +27,7 @@
 
 ## Current Projects
 
+- 🌐 **[sayantanb.com](https://github.com/sayantan94/sayantanb.com)** - Personal website, built with Next.js, Tailwind CSS.
 - 📊 **[Market Sentiment Plugin](https://github.com/sayantan94/market-sentiment-plugin)** - Chrome extension + CLI that captures posts from X, runs sentiment analysis via Claude on Bedrock, and tracks sentiment drift over time
 - 🔁 **[Recall](https://github.com/sayantan94/recall)** - A CLI and visual tool that records your terminal activity and lets you search, explore, and understand your work history
 - 📝 **[Clerk Bot](https://github.com/sayantan94/clerk-bot)** - Chrome extension that auto-fills web forms from your documents
