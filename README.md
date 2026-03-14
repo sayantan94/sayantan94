@@ -27,6 +27,7 @@
 
 ## Current Projects
 
+- 📎 **[clippy-guard](https://github.com/sayantan94/clippy)** - CLI hooks that block dangerous commands from AI coding agents. YAML rules, full audit trail, web dashboard.
 - 🛠️ **[Pi Toolkit](https://github.com/sayantan94/pi-toolkit)** - Building custom tools and adding skills for day to day activities
 - 🌐 **[sayantanb.com](https://github.com/sayantan94/sayantanb.com)** - Personal website, built with Next.js, Tailwind CSS.
 - 📊 **[Market Sentiment Plugin](https://github.com/sayantan94/market-sentiment-plugin)** - Chrome extension + CLI that captures posts from X, runs sentiment analysis via Claude on Bedrock, and tracks sentiment drift over time
