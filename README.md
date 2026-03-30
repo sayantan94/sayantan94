@@ -27,6 +27,7 @@
 
 ## Current Projects
 
+- 🧪 **[CrowdSimulator](https://github.com/sayantan94/CrowdSimulator)** - Multi-agent simulation that predicts how the internet will react to your post before you publish it
 - 📎 **[clippy-guard](https://github.com/sayantan94/clippy)** - CLI hooks that block dangerous commands from AI coding agents. YAML rules, full audit trail, web dashboard.
 - 🛠️ **[Pi Toolkit](https://github.com/sayantan94/pi-toolkit)** - Building custom tools and adding skills for day to day activities
 - 🌐 **[sayantanb.com](https://github.com/sayantan94/sayantanb.com)** - Personal website, built with Next.js, Tailwind CSS.
@@ -45,6 +46,14 @@
 - 📉 **[Open Interest Pattern Tracker](https://github.com/fintools-ai/open-interest-pattern-tracker)** - Scans OI data across multiple stocks
 - 🌊 **[Option Flow Tracker](https://github.com/fintools-ai/option-flow-tracker)** - Tracks option flow volume
 - 🔒 ...and many more in private repos
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sayantan94/sayantan94/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sayantan94/sayantan94/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sayantan94/sayantan94/output/github-snake-dark.svg" />
+</picture>
 
 ## Connect
 
