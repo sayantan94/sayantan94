@@ -15,8 +15,21 @@
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
+## ✨ Latest
+
+**[livecv](https://github.com/sayantan94/livecv)** — Your portfolio answers questions.
+
+A generative-UI portfolio framework: the visitor types a question, an LLM picks components from a Zod-typed catalog, and the page assembles itself live as the answer. Same site, different shape per visitor — recruiter sees the patent and metrics, friend sees the writing, founder sees the agent infra.
+
+Built on [@vercel-labs/json-render](https://github.com/vercel-labs/json-render) + Anthropic Claude. Ships a companion Claude Code skill that scaffolds a complete project from a resume PDF in one command.
+
+- 🔗 Demo: **[ai.sayantan.sh](https://ai.sayantan.sh)**
+- 📦 npm: [`livecv`](https://www.npmjs.com/package/livecv)
+- 📖 Deep-dive: [The Page Is the Answer](https://www.sayantan.sh/blog/the-page-is-the-answer)
+
 ## What I'm Working On
 
+- Building generative-UI frameworks where the LLM picks components from a Zod-typed catalog instead of free-text generation ([livecv](https://github.com/sayantan94/livecv))
 - Designing agent swarm workflows for coordinated research, analysis, and decision-making across real-world workflows
 - Creating LLM-powered Chrome extensions that perform actions on the web and help users curate custom, task-specific workflows
 - Exploring memory and context management strategies
@@ -27,6 +40,7 @@
 
 ## Current Projects
 
+- 🪪 **[livecv](https://github.com/sayantan94/livecv)** - Generative-UI portfolio framework. Visitors type questions; pages render bespoke per question. npm + Claude Code skill. Demo: [ai.sayantan.sh](https://ai.sayantan.sh)
 - 🧪 **[CrowdSimulator](https://github.com/sayantan94/CrowdSimulator)** - Multi-agent simulation that predicts how the internet will react to your post before you publish it
 - 📎 **[clippy-guard](https://github.com/sayantan94/clippy)** - CLI hooks that block dangerous commands from AI coding agents. YAML rules, full audit trail, web dashboard.
 - 🛠️ **[Pi Toolkit](https://github.com/sayantan94/pi-toolkit)** - Building custom tools and adding skills for day to day activities
