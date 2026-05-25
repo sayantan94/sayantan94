@@ -28,7 +28,7 @@
 
 ## Current Projects
 
-- 🪪 **[livecv](https://github.com/sayantan94/livecv)** - Generative-UI portfolio framework. Visitor types a question; an LLM picks components from a Zod-typed catalog; the page renders bespoke per question. [Demo](https://ai.sayantan.sh) · [npm](https://www.npmjs.com/package/livecv) · [blog post](https://www.sayantan.sh/blog/the-page-is-the-answer)
+- 🪪 **[livecv](https://github.com/sayantan94/livecv)** - Generative-UI portfolio framework. Visitor types a question; an LLM picks components from a Zod-typed catalog; the page renders bespoke per question. [Demo](https://ai.sayantan.sh) · [npm](https://www.npmjs.com/package/livecv)
 - 🧪 **[CrowdSimulator](https://github.com/sayantan94/CrowdSimulator)** - Multi-agent simulation that predicts how the internet will react to your post before you publish it
 - 📎 **[clippy-guard](https://github.com/sayantan94/clippy)** - CLI hooks that block dangerous commands from AI coding agents. YAML rules, full audit trail, web dashboard.
 - 🛠️ **[Pi Toolkit](https://github.com/sayantan94/pi-toolkit)** - Building custom tools and adding skills for day to day activities
