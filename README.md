@@ -28,7 +28,11 @@
 
 ## Current Projects
 
+- 🎯 **[AppliedIn](https://github.com/sayantan94/AppliedIn)** - Agent graph for job applications. Watches company career sites, scores roles against your real experience, tailors a truthful resume, and applies in your browser with you approving the step that cannot be undone. [Site](https://www.appliedin.dev)
 - 🪪 **[livecv](https://github.com/sayantan94/livecv)** - Generative-UI portfolio framework. Visitor types a question; an LLM picks components from a Zod-typed catalog; the page renders bespoke per question. [Demo](https://ai.sayantan.sh) · [npm](https://www.npmjs.com/package/livecv)
+- 🛸 **[drone-i-fy](https://github.com/sayantan94/drone-i-fy)** - Type a scenario, watch 600 drones perform it over a night city. Real flight physics, formations that morph scene by scene, and a landing when the story ends.
+- 🗞️ **[newspaper](https://github.com/sayantan94/newspaper)** - Turns Claude Code and Codex session logs into a daily engineering journal, rendered as a newspaper. Reconstructs what you built, where each project stopped, and the next useful move.
+- 🕹️ **[Agent Empire](https://patterns.products.sayantan.sh)** - Retro strategy game about agent architecture. Incidents spawn, escalate and chain in real time; you dispatch the right pattern at each one. Pick wrong and it freezes the clock and tells you why that pattern fails there. 12 patterns, from ReAct to Saga to HITL gates.
 - 🧪 **[CrowdSimulator](https://github.com/sayantan94/CrowdSimulator)** - Multi-agent simulation that predicts how the internet will react to your post before you publish it
 - 📎 **[clippy-guard](https://github.com/sayantan94/clippy)** - CLI hooks that block dangerous commands from AI coding agents. YAML rules, full audit trail, web dashboard.
 - 🛠️ **[Pi Toolkit](https://github.com/sayantan94/pi-toolkit)** - Building custom tools and adding skills for day to day activities
